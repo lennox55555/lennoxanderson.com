@@ -14,10 +14,9 @@ import { MozambiqueMigrationPage } from './components/pages/MozambiqueMigrationP
 import { DukeBlueAgentPage } from './components/pages/DukeBlueAgentPage';
 import { EnergyAnalyticsPage } from './components/pages/EnergyAnalyticsPage';
 import { CodeDayPage } from './components/pages/CodeDayPage';
-import { OnyxAIPage } from './components/pages/OnyxAIPage';
 import './wikipedia.css';
 
-type PageType = 'lennox' | 'flexgen' | 'manifest' | 'duke' | 'colorado' | 'greenriver' | 'iwp' | 'driving-detection' | 'energy-forecasting' | 'adversarial-research' | 'mozambique-migration' | 'duke-blue-agent' | 'energy-analytics' | 'codeday' | 'onyx-ai';
+type PageType = 'lennox' | 'flexgen' | 'manifest' | 'duke' | 'colorado' | 'greenriver' | 'iwp' | 'driving-detection' | 'energy-forecasting' | 'adversarial-research' | 'mozambique-migration' | 'duke-blue-agent' | 'energy-analytics' | 'codeday';
 
 function App() {
   const [currentPage, setCurrentPage] = useState<PageType>('lennox');
@@ -78,8 +77,6 @@ function App() {
         return <EnergyAnalyticsPage onNavigate={handleNavigate} />;
       case 'codeday':
         return <CodeDayPage onNavigate={handleNavigate} />;
-      case 'onyx-ai':
-        return <OnyxAIPage onNavigate={handleNavigate} />;
       default:
         return <LennoxAndersonPage onNavigate={handleNavigate} />;
     }
