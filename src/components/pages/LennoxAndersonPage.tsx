@@ -1,6 +1,6 @@
 import { WikiLink } from '../WikiLink';
 
-type PageType = 'lennox' | 'flexgen' | 'manifest' | 'duke' | 'colorado' | 'greenriver' | 'iwp' | 'driving-detection' | 'energy-forecasting' | 'adversarial-research' | 'mozambique-migration' | 'duke-blue-agent' | 'energy-analytics' | 'codeday';
+type PageType = 'lennox' | 'flexgen' | 'manifest' | 'duke' | 'colorado' | 'greenriver' | 'iwp' | 'driving-detection' | 'energy-forecasting' | 'adversarial-research' | 'mozambique-migration' | 'duke-blue-agent' | 'energy-analytics' | 'codeday' | 'onyx-ai';
 
 interface LennoxAndersonPageProps {
   onNavigate: (page: PageType) => void;
@@ -48,7 +48,7 @@ export function LennoxAndersonPage({ onNavigate }: LennoxAndersonPageProps) {
 
       <div className="wiki-text">
         <p>
-          <strong>Lennox Anderson</strong> is a researcher in AI Automation from Seattle, Washington, specializing in artificial intelligence and machine learning systems for energy applications. Currently employed at <WikiLink onClick={() => onNavigate('flexgen')}>FlexGen Power Systems</WikiLink> in Durham, North Carolina, leading engineering teams and developing machine learning solutions for battery energy storage systems.
+          <strong>Lennox Anderson</strong> is a researcher in AI Automation from Seattle, Washington, specializing in artificial intelligence and machine learning systems for energy applications. Currently the founder of <WikiLink onClick={() => onNavigate('onyx-ai')}>ONYX AI LLC</WikiLink>, an AI consulting and development firm, and previously employed at <WikiLink onClick={() => onNavigate('flexgen')}>FlexGen Power Systems</WikiLink> in Durham, North Carolina, leading engineering teams and developing machine learning solutions for battery energy storage systems.
         </p>
 
         <p>
@@ -82,7 +82,14 @@ export function LennoxAndersonPage({ onNavigate }: LennoxAndersonPageProps) {
           </thead>
           <tbody>
             <tr>
-              <td>2024–present</td>
+              <td>2025–present</td>
+              <td><WikiLink onClick={() => onNavigate('onyx-ai')}>ONYX AI LLC</WikiLink></td>
+              <td>Founder &amp; AI Engineer</td>
+              <td>Durham, NC</td>
+              <td>AI consulting and development firm specializing in agentic automation, ML solutions, and full-stack AI applications</td>
+            </tr>
+            <tr>
+              <td>2024–2025</td>
               <td><WikiLink onClick={() => onNavigate('flexgen')}>FlexGen Power Systems</WikiLink></td>
               <td>Machine Learning Engineer</td>
               <td>Durham, NC</td>
