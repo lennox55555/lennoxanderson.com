@@ -63,32 +63,32 @@ export function ManifestSupplyPage({ onNavigate }: ManifestSupplyPageProps) {
         </p>
 
         <p>
-          The company's visualization solutions are designed to handle large-scale datasets while maintaining optimal performance in client-side applications. Their systems provide real-time tracking capabilities and historical analysis for supply chain optimization.
+          The company's visualization solutions are designed to handle large scale datasets while maintaining optimal performance in client side applications. Their systems provide real time tracking capabilities and historical analysis for supply chain optimization.
         </p>
 
         <h2>Software Engineering Contributions at Manifest Supply Studies</h2>
 
         <h3>Interactive Supply Chain Visualization Platform</h3>
         <p>
-          The Software Engineer role at Manifest Supply Studies from May 2023 to August 2024 involved collaborating with a team of engineers to develop cutting-edge temporal visualization capabilities for interactive supply chain mapping software.
+          The Software Engineer role at Manifest Supply Studies from May 2023 to August 2024 involved collaborating with a team of engineers to develop cutting edge temporal visualization capabilities for interactive supply chain mapping software.
         </p>
 
         <p>
-          The work was instrumental in integrating multiple geospatial technologies including ArcGIS, D3.js, and Leaflet to create sophisticated interactive supply chain visualizations. This implementation enabled users to visualize complex route tracking across time dimensions for large-scale datasets and supply chain networks while maintaining optimal time complexity performance in client-side applications.
+          The work was instrumental in integrating multiple geospatial technologies including ArcGIS, D3.js, and Leaflet to create sophisticated interactive supply chain visualizations. This implementation enabled users to visualize complex route tracking across time dimensions for large scale datasets and supply chain networks while maintaining optimal time complexity performance in client side applications.
         </p>
 
         <h3>Advanced Testing Framework Implementation</h3>
         <p>
-          Recognizing the critical importance of software reliability in supply chain visualization, the project involved designing and implementing comprehensive automated testing frameworks using JavaScript. This proactive approach to quality assurance included both end-to-end and unit testing solutions that systematically identified race conditions and potential bugs before they could impact production systems.
+          Recognizing the critical importance of software reliability in supply chain visualization, the project involved designing and implementing comprehensive automated testing frameworks using JavaScript. This proactive approach to quality assurance included both end to end and unit testing solutions that systematically identified race conditions and potential bugs before they could impact production systems.
         </p>
 
         <p>
-          The testing implementation achieved an impressive 81% code coverage across the entire client-side application, establishing robust maintainability standards and ensuring reliable performance for all future development rollouts. This comprehensive testing infrastructure became foundational to the platform's stability and scalability.
+          The testing implementation achieved an impressive 81% code coverage across the entire client side application, establishing robust maintainability standards and ensuring reliable performance for all future development rollouts. This comprehensive testing infrastructure became foundational to the platform's stability and scalability.
         </p>
 
         <h3>Technical Innovation and Impact</h3>
         <p>
-          The work at Manifest Supply Studies demonstrated the ability to balance complex technical requirements with user experience considerations. The solutions successfully handled large-scale supply chain datasets while delivering responsive, interactive visualizations that provided valuable insights into temporal logistics patterns.
+          The work at Manifest Supply Studies demonstrated the ability to balance complex technical requirements with user experience considerations. The solutions successfully handled large scale supply chain datasets while delivering responsive, interactive visualizations that provided valuable insights into temporal logistics patterns.
         </p>
 
         <p>

@@ -72,16 +72,16 @@ export function EnergyForecastingPage({ onNavigate }: EnergyForecastingPageProps
 
       <div className="wiki-text">
         <p>
-          <strong>Forecasting Energy Market Data</strong> is an advanced machine learning project focused on developing hybrid ML/deep learning architectures for predicting energy market prices and demand patterns. The system combines multiple machine learning techniques in a multi-horizon framework to achieve superior accuracy for battery storage arbitrage optimization across the Electric Reliability Council of Texas (ERCOT) market.
+          <strong>Forecasting Energy Market Data</strong> is an advanced machine learning project focused on developing hybrid ML/deep learning architectures for predicting energy market prices and demand patterns. The system combines multiple machine learning techniques in a multi horizon framework to achieve superior accuracy for battery storage arbitrage optimization across the Electric Reliability Council of Texas (ERCOT) market.
         </p>
 
         <p>
-          The project addresses critical challenges in energy trading by providing accurate predictions across multiple time horizons, from short-term 15-minute forecasts to long-term 7-day predictions, enabling more effective energy storage and trading strategies.
+          The project addresses critical challenges in energy trading by providing accurate predictions across multiple time horizons, from short term 15 minute forecasts to long term 7 day predictions, enabling more effective energy storage and trading strategies.
         </p>
 
         <h2>Project Overview</h2>
         <p>
-          The Forecasting Energy Market Data project was developed to address the growing need for accurate energy market predictions in the context of battery energy storage systems and grid-scale energy trading. The research focused on creating a comprehensive forecasting system capable of handling the complex dynamics of energy markets across multiple time scales.
+          The Forecasting Energy Market Data project was developed to address the growing need for accurate energy market predictions in the context of battery energy storage systems and grid scale energy trading. The research focused on creating a comprehensive forecasting system capable of handling the complex dynamics of energy markets across multiple time scales.
         </p>
 
         <p>
@@ -92,22 +92,22 @@ export function EnergyForecastingPage({ onNavigate }: EnergyForecastingPageProps
 
         <h3>Hybrid ML/Deep Learning Framework</h3>
         <p>
-          The forecasting system employs a sophisticated hybrid architecture that combines Random Forest, XGBoost, and LSTM (Long Short-Term Memory) models in a unified multi-horizon prediction framework. This approach leverages the complementary strengths of different machine learning techniques:
+          The forecasting system employs a sophisticated hybrid architecture that combines Random Forest, XGBoost, and LSTM (Long Short-Term Memory) models in a unified multi horizon prediction framework. This approach leverages the complementary strengths of different machine learning techniques:
         </p>
 
         <ul>
           <li><strong>Random Forest</strong> - Provides robust ensemble predictions and handles feature interactions effectively</li>
-          <li><strong>XGBoost</strong> - Delivers high-performance gradient boosting with excellent handling of structured data</li>
-          <li><strong>LSTM Networks</strong> - Captures long-term temporal dependencies and sequential patterns in time series data</li>
+          <li><strong>XGBoost</strong> - Delivers high performance gradient boosting with excellent handling of structured data</li>
+          <li><strong>LSTM Networks</strong> - Captures long term temporal dependencies and sequential patterns in time series data</li>
         </ul>
 
-        <h3>Multi-Horizon Prediction Framework</h3>
+        <h3>Multi Horizon Prediction Framework</h3>
         <p>
-          The system is designed to provide accurate predictions across multiple time horizons, ranging from short-term 15-minute forecasts to long-term 7-day predictions. This multi-scale approach enables energy trading strategies that can optimize both immediate dispatch decisions and longer-term storage planning.
+          The system is designed to provide accurate predictions across multiple time horizons, ranging from short term 15 minute forecasts to long term 7 day predictions. This multi scale approach enables energy trading strategies that can optimize both immediate dispatch decisions and longer term storage planning.
         </p>
 
         <p>
-          The multi-horizon framework allows for comprehensive energy market analysis, supporting decision-making processes that require different levels of temporal granularity for optimal battery storage arbitrage strategies.
+          The multi horizon framework allows for comprehensive energy market analysis, supporting decision making processes that require different levels of temporal granularity for optimal battery storage arbitrage strategies.
         </p>
 
         <h2>Market Coverage and Data Integration</h2>
@@ -118,12 +118,12 @@ export function EnergyForecastingPage({ onNavigate }: EnergyForecastingPageProps
         </p>
 
         <p>
-          The system's ability to process and predict market conditions across such a large number of settlement points demonstrates its scalability and practical applicability to real-world energy trading operations.
+          The system's ability to process and predict market conditions across such a large number of settlement points demonstrates its scalability and practical applicability to real world energy trading operations.
         </p>
 
         <h3>Data Processing and Feature Engineering</h3>
         <p>
-          The project involved sophisticated data processing techniques to integrate multiple data sources and create comprehensive feature sets for model training. This included historical price data, demand patterns, weather information, and other market-relevant variables.
+          The project involved sophisticated data processing techniques to integrate multiple data sources and create comprehensive feature sets for model training. This included historical price data, demand patterns, weather information, and other market relevant variables.
         </p>
 
         <p>
@@ -138,7 +138,7 @@ export function EnergyForecastingPage({ onNavigate }: EnergyForecastingPageProps
         </p>
 
         <p>
-          The performance gains were measured against established baseline models and industry-standard forecasting approaches, demonstrating the practical value of the hybrid ML architecture for real-world energy trading applications.
+          The performance gains were measured against established baseline models and industry standard forecasting approaches, demonstrating the practical value of the hybrid ML architecture for real world energy trading applications.
         </p>
 
         <h3>Battery Storage Arbitrage Optimization</h3>
@@ -148,11 +148,11 @@ export function EnergyForecastingPage({ onNavigate }: EnergyForecastingPageProps
 
         <h2>Technical Innovation</h2>
         <p>
-          The Forecasting Energy Market Data project represents a significant advancement in applying machine learning to energy market prediction. The hybrid architecture's ability to combine different ML techniques effectively addresses the complex, multi-scale nature of energy market dynamics.
+          The Forecasting Energy Market Data project represents a significant advancement in applying machine learning to energy market prediction. The hybrid architecture's ability to combine different ML techniques effectively addresses the complex, multi scale nature of energy market dynamics.
         </p>
 
         <p>
-          The project's multi-horizon approach provides a comprehensive solution for energy trading optimization, addressing both short-term operational decisions and longer-term strategic planning requirements within a single unified framework.
+          The project's multi horizon approach provides a comprehensive solution for energy trading optimization, addressing both short term operational decisions and longer term strategic planning requirements within a single unified framework.
         </p>
 
         <h2>Applications and Impact</h2>

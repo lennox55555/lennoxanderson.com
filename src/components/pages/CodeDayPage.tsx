@@ -59,11 +59,11 @@ export function CodeDayPage({ onNavigate }: CodeDayPageProps) {
       <div className="wiki-text">
         <h2>About CodeDay</h2>
         <p>
-          CodeDay operates as a technology organization that bridges the gap between theoretical computer science education and practical software development skills. The organization focuses on providing hands-on experience with modern development tools, cloud infrastructure, and collaborative software engineering practices.
+          CodeDay operates as a technology organization that bridges the gap between theoretical computer science education and practical software development skills. The organization focuses on providing hands on experience with modern development tools, cloud infrastructure, and collaborative software engineering practices.
         </p>
 
         <p>
-          The organization's approach emphasizes practical learning through real-world project development, giving participants the opportunity to work on production systems and develop skills in areas such as cloud computing, API development, and full-stack software engineering.
+          The organization's approach emphasizes practical learning through real world project development, giving participants the opportunity to work on production systems and develop skills in areas such as cloud computing, API development, and full stack software engineering.
         </p>
 
         <h2>Software Engineering Contributions at CodeDay</h2>
@@ -74,21 +74,21 @@ export function CodeDayPage({ onNavigate }: CodeDayPageProps) {
         </p>
 
         <p>
-          The hiking trail locator product incorporated social features that allowed users to discover new friends who shared similar outdoor interests and coordinate meetups at various hiking locations. The work focused on creating a comprehensive platform that combined location-based services with social networking capabilities.
+          The hiking trail locator product incorporated social features that allowed users to discover new friends who shared similar outdoor interests and coordinate meetups at various hiking locations. The work focused on creating a comprehensive platform that combined location based services with social networking capabilities.
         </p>
 
         <h3>Cloud Infrastructure and AWS Development</h3>
         <p>
-          A significant portion of the work involved cloud infrastructure development and deployment using Amazon Web Services (AWS). Responsibilities included pushing code to production environments and managing cloud-based systems that supported the hiking trail locator application.
+          A significant portion of the work involved cloud infrastructure development and deployment using Amazon Web Services (AWS). Responsibilities included pushing code to production environments and managing cloud based systems that supported the hiking trail locator application.
         </p>
 
         <p>
-          The cloud development work included configuring and maintaining AWS services, implementing continuous integration and deployment pipelines, and ensuring that the application infrastructure could scale to support growing user demands. Experience with AWS provided valuable insights into modern cloud-native development practices.
+          The cloud development work included configuring and maintaining AWS services, implementing continuous integration and deployment pipelines, and ensuring that the application infrastructure could scale to support growing user demands. Experience with AWS provided valuable insights into modern cloud native development practices.
         </p>
 
         <h3>Feature Development and Engineering</h3>
         <p>
-          The role involved developing new features for the hiking trail locator platform. The work included implementing user-requested functionality, optimizing existing features, and ensuring that new capabilities integrated seamlessly with the existing system architecture.
+          The role involved developing new features for the hiking trail locator platform. The work included implementing user requested functionality, optimizing existing features, and ensuring that new capabilities integrated seamlessly with the existing system architecture.
         </p>
 
         <p>
@@ -106,7 +106,7 @@ export function CodeDayPage({ onNavigate }: CodeDayPageProps) {
 
         <h3>Production Code Deployment</h3>
         <p>
-          Throughout the internship, the role involved writing and deploying production-ready code. This experience provided valuable exposure to software engineering best practices, including code review processes, testing procedures, and deployment strategies.
+          Throughout the internship, the role involved writing and deploying production ready code. This experience provided valuable exposure to software engineering best practices, including code review processes, testing procedures, and deployment strategies.
         </p>
 
         <p>

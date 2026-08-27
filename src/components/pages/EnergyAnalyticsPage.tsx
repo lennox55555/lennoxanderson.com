@@ -55,7 +55,7 @@ export function EnergyAnalyticsPage({ onNavigate }: EnergyAnalyticsPageProps) {
           </div>
           <div className="wiki-infobox-row">
             <div className="wiki-infobox-label">Technologies</div>
-            <div className="wiki-infobox-value">Data Visualization<br />Real-time Analytics<br />Dashboard Development</div>
+            <div className="wiki-infobox-value">Data Visualization<br />Real time Analytics<br />Dashboard Development</div>
           </div>
           <div className="wiki-infobox-row">
             <div className="wiki-infobox-label">Status</div>
@@ -72,11 +72,11 @@ export function EnergyAnalyticsPage({ onNavigate }: EnergyAnalyticsPageProps) {
 
       <div className="wiki-text">
         <p>
-          <strong>Energy Analytics</strong> is a comprehensive data analytics platform designed to provide real-time insights and performance optimization capabilities for energy systems. The platform combines advanced data processing, visualization technologies, and analytical tools to enable comprehensive monitoring, analysis, and optimization of energy operations across multiple scales and applications.
+          <strong>Energy Analytics</strong> is a comprehensive data analytics platform designed to provide real time insights and performance optimization capabilities for energy systems. The platform combines advanced data processing, visualization technologies, and analytical tools to enable comprehensive monitoring, analysis, and optimization of energy operations across multiple scales and applications.
         </p>
 
         <p>
-          The Energy Analytics platform addresses the growing need for sophisticated data-driven decision making in energy management, providing stakeholders with the tools and insights necessary to optimize performance, reduce costs, and improve operational efficiency in complex energy systems.
+          The Energy Analytics platform addresses the growing need for sophisticated data driven decision making in energy management, providing stakeholders with the tools and insights necessary to optimize performance, reduce costs, and improve operational efficiency in complex energy systems.
         </p>
 
         <div style={{ textAlign: 'center', margin: '20px 0' }}>
@@ -96,28 +96,28 @@ export function EnergyAnalyticsPage({ onNavigate }: EnergyAnalyticsPageProps) {
             Your browser does not support the video tag.
           </video>
           <div style={{ fontSize: '12px', color: '#555', marginTop: '8px', fontStyle: 'italic' }}>
-            Energy Analytics dashboard showing real-time performance metrics and visualizations
+            Energy Analytics dashboard showing real time performance metrics and visualizations
           </div>
         </div>
 
         <h2>About Energy Analytics</h2>
         <p>
-          The Energy Analytics platform was developed to address the complex challenges of modern energy system management and optimization. The platform provides comprehensive analytical capabilities that enable energy professionals to make informed decisions based on real-time data and advanced analytical insights.
+          The Energy Analytics platform was developed to address the complex challenges of modern energy system management and optimization. The platform provides comprehensive analytical capabilities that enable energy professionals to make informed decisions based on real time data and advanced analytical insights.
         </p>
 
         <p>
-          This sophisticated analytics platform was designed and developed by <WikiLink onClick={() => onNavigate('lennox')}>Lennox Anderson</WikiLink>, incorporating cutting-edge data visualization techniques, real-time processing capabilities, and intuitive dashboard interfaces to create a comprehensive solution for energy system analytics.
+          This sophisticated analytics platform was designed and developed by <WikiLink onClick={() => onNavigate('lennox')}>Lennox Anderson</WikiLink>, incorporating cutting edge data visualization techniques, real time processing capabilities, and intuitive dashboard interfaces to create a comprehensive solution for energy system analytics.
         </p>
 
         <h2>Platform Architecture and Features</h2>
 
-        <h3>Real-Time Data Processing</h3>
+        <h3>Real Time Data Processing</h3>
         <p>
-          The Energy Analytics platform incorporates advanced real-time data processing capabilities that enable continuous monitoring and analysis of energy system performance. The platform can handle high-volume data streams from multiple sources, providing up-to-the-minute insights into system operations and performance metrics.
+          The Energy Analytics platform incorporates advanced real time data processing capabilities that enable continuous monitoring and analysis of energy system performance. The platform can handle high volume data streams from multiple sources, providing up to the minute insights into system operations and performance metrics.
         </p>
 
         <p>
-          The real-time processing architecture ensures that critical information is available immediately, enabling rapid response to changing conditions and proactive management of energy systems for optimal performance and reliability.
+          The real time processing architecture ensures that critical information is available immediately, enabling rapid response to changing conditions and proactive management of energy systems for optimal performance and reliability.
         </p>
 
         <h3>Advanced Data Visualization</h3>
@@ -126,7 +126,7 @@ export function EnergyAnalyticsPage({ onNavigate }: EnergyAnalyticsPageProps) {
         </p>
 
         <p>
-          The advanced visualization features enable users to quickly identify trends, anomalies, and optimization opportunities within their energy systems, facilitating more effective decision-making and operational management.
+          The advanced visualization features enable users to quickly identify trends, anomalies, and optimization opportunities within their energy systems, facilitating more effective decision making and operational management.
         </p>
 
         <h3>Interactive Dashboard Interface</h3>
@@ -175,7 +175,7 @@ export function EnergyAnalyticsPage({ onNavigate }: EnergyAnalyticsPageProps) {
         </p>
 
         <p>
-          This scalability makes the platform suitable for organizations of all sizes, from small-scale energy systems to large utility companies with complex, multi-site operations and massive data processing requirements.
+          This scalability makes the platform suitable for organizations of all sizes, from small scale energy systems to large utility companies with complex, multi site operations and massive data processing requirements.
         </p>
 
         <h3>Integration Capabilities</h3>
@@ -213,7 +213,7 @@ export function EnergyAnalyticsPage({ onNavigate }: EnergyAnalyticsPageProps) {
           <a href="#">Energy analytics</a> |
           <a href="#">Data visualization</a> |
           <a href="#">Energy management systems</a> |
-          <a href="#">Real-time analytics</a> |
+          <a href="#">Real time analytics</a> |
           <a href="#">Dashboard development</a>
         </div>
       </div>

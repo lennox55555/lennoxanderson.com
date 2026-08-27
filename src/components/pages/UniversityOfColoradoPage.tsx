@@ -61,7 +61,7 @@ export function UniversityOfColoradoPage({ onNavigate }: UniversityOfColoradoPag
 
         <h3>Computer & Information Sciences</h3>
         <p>
-          CU Boulder's Computer & Information Sciences program is housed within the College of Media, Communication and Information and offers a comprehensive curriculum that combines computer science, data analysis, human-computer interaction, and information systems design. The program is designed to prepare students for careers in technology, data science, and digital media.
+          CU Boulder's Computer & Information Sciences program is housed within the College of Media, Communication and Information and offers a comprehensive curriculum that combines computer science, data analysis, human computer interaction, and information systems design. The program is designed to prepare students for careers in technology, data science, and digital media.
         </p>
 
         <p>
@@ -85,7 +85,7 @@ export function UniversityOfColoradoPage({ onNavigate }: UniversityOfColoradoPag
 
         <h3>Coursework and Academic Foundation</h3>
         <p>
-          During undergraduate studies, Anderson completed a comprehensive curriculum that provided both theoretical knowledge and practical programming skills. In <strong>Applied Machine Learning</strong>, gained hands-on experience implementing machine learning algorithms and models for real-world applications. Foundational programming skills were developed through <strong>Computational Reasoning 1</strong> and <strong>Computational Reasoning 2</strong>, both taught in Python and focusing on algorithmic thinking and problem-solving methodologies.
+          During undergraduate studies, Anderson completed a comprehensive curriculum that provided both theoretical knowledge and practical programming skills. In <strong>Applied Machine Learning</strong>, gained hands on experience implementing machine learning algorithms and models for real world applications. Foundational programming skills were developed through <strong>Computational Reasoning 1</strong> and <strong>Computational Reasoning 2</strong>, both taught in Python and focusing on algorithmic thinking and problem solving methodologies.
         </p>
 
         <p>

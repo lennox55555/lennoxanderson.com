@@ -63,7 +63,7 @@ export function InternationalWoodProductsPage({ onNavigate }: InternationalWoodP
       <div className="wiki-text">
         <h2>About IWP</h2>
         <p>
-          International Wood Products, LLC operates as an independent distributor specializing in quality building materials. The company's strategic approach combines a fleet of company-owned trucks with six strategically located distribution centers to ensure reliable service delivery across their extensive service area.
+          International Wood Products, LLC operates as an independent distributor specializing in quality building materials. The company's strategic approach combines a fleet of company owned trucks with six strategically located distribution centers to ensure reliable service delivery across their extensive service area.
         </p>
 
         <p>
@@ -71,7 +71,7 @@ export function InternationalWoodProductsPage({ onNavigate }: InternationalWoodP
         </p>
 
         <p>
-          The company's success is built on a foundation of quality materials, reliable service, and unwavering business integrity. IWP's employees are considered the company's greatest asset, with team members across all departments—from warehouse operations to sales, from road services to office administration—setting themselves apart through an unsurpassed level of customer service.
+          The company's success is built on a foundation of quality materials, reliable service, and unwavering business integrity. IWP's employees are considered the company's greatest asset, with team members across all departments, from warehouse operations to sales, from road services to office administration, setting themselves apart through an unsurpassed level of customer service.
         </p>
 
         <h2>Data Science Contributions at International Wood Products</h2>
@@ -99,9 +99,9 @@ export function InternationalWoodProductsPage({ onNavigate }: InternationalWoodP
           This comprehensive approach to warehouse optimization resulted in reduced average retrieval times and significantly improved truck loading efficiency, contributing to overall operational streamlining across IWP's distribution centers.
         </p>
 
-        <h3>Data-Driven Decision Making</h3>
+        <h3>Data Driven Decision Making</h3>
         <p>
-          The work at IWP demonstrated the practical application of advanced data science techniques in traditional distribution operations. The implementations provided IWP with data-driven insights that continue to inform operational decisions and efficiency improvements across their distribution network.
+          The work at IWP demonstrated the practical application of advanced data science techniques in traditional distribution operations. The implementations provided IWP with data driven insights that continue to inform operational decisions and efficiency improvements across their distribution network.
         </p>
 
 

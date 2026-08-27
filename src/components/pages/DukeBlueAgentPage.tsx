@@ -74,7 +74,7 @@ export function DukeBlueAgentPage({ onNavigate }: DukeBlueAgentPageProps) {
 
       <div className="wiki-text">
         <p>
-          <strong>Duke Blue Agent</strong> is an advanced artificial intelligence agent system developed at <WikiLink onClick={() => onNavigate('duke')}>Duke University</WikiLink> as part of cutting-edge research in autonomous AI systems and intelligent decision-making. The project represents a significant advancement in creating AI agents capable of independent reasoning, learning, and task execution across complex problem domains.
+          <strong>Duke Blue Agent</strong> is an advanced artificial intelligence agent system developed at <WikiLink onClick={() => onNavigate('duke')}>Duke University</WikiLink> as part of cutting edge research in autonomous AI systems and intelligent decision making. The project represents a significant advancement in creating AI agents capable of independent reasoning, learning, and task execution across complex problem domains.
         </p>
 
         <p>
@@ -108,43 +108,43 @@ export function DukeBlueAgentPage({ onNavigate }: DukeBlueAgentPageProps) {
         </p>
 
         <p>
-          This innovative AI system development was led by <WikiLink onClick={() => onNavigate('lennox')}>Lennox Anderson</WikiLink>, incorporating state-of-the-art machine learning techniques and autonomous decision-making frameworks to create a versatile and capable artificial intelligence agent.
+          This innovative AI system development was led by <WikiLink onClick={() => onNavigate('lennox')}>Lennox Anderson</WikiLink>, incorporating state of the art machine learning techniques and autonomous decision making frameworks to create a versatile and capable artificial intelligence agent.
         </p>
 
         <h2>System Architecture and Capabilities</h2>
 
         <h3>Autonomous Decision Making</h3>
         <p>
-          The Duke Blue Agent incorporates advanced decision-making algorithms that enable it to evaluate complex scenarios, weigh multiple variables, and make informed decisions without human intervention. The system's decision-making framework is built on sophisticated AI architectures that can process multiple data streams and contextual information simultaneously.
+          The Duke Blue Agent incorporates advanced decision making algorithms that enable it to evaluate complex scenarios, weigh multiple variables, and make informed decisions without human intervention. The system's decision making framework is built on sophisticated AI architectures that can process multiple data streams and contextual information simultaneously.
         </p>
 
         <p>
-          The agent's autonomous capabilities extend beyond simple rule-based responses to include adaptive learning, strategic planning, and dynamic problem-solving that can adjust to new situations and unexpected challenges in real-time.
+          The agent's autonomous capabilities extend beyond simple rule based responses to include adaptive learning, strategic planning, and dynamic problem solving that can adjust to new situations and unexpected challenges in real time.
         </p>
 
         <h3>Machine Learning Integration</h3>
         <p>
-          The system leverages cutting-edge machine learning techniques to continuously improve its performance and expand its capabilities. The Duke Blue Agent incorporates multiple ML paradigms including supervised learning, reinforcement learning, and unsupervised learning to create a comprehensive intelligent system.
+          The system leverages cutting edge machine learning techniques to continuously improve its performance and expand its capabilities. The Duke Blue Agent incorporates multiple ML paradigms including supervised learning, reinforcement learning, and unsupervised learning to create a comprehensive intelligent system.
         </p>
 
         <p>
           Through advanced learning algorithms, the agent can adapt its behavior based on experience, optimize its performance over time, and develop new strategies for handling complex tasks and environments.
         </p>
 
-        <h3>Multi-Domain Operation</h3>
+        <h3>Multi Domain Operation</h3>
         <p>
-          One of the key strengths of the Duke Blue Agent is its ability to operate across multiple problem domains. The system's architecture is designed to be domain-agnostic, allowing it to apply its intelligence and decision-making capabilities to diverse challenges and applications.
+          One of the key strengths of the Duke Blue Agent is its ability to operate across multiple problem domains. The system's architecture is designed to be domain agnostic, allowing it to apply its intelligence and decision making capabilities to diverse challenges and applications.
         </p>
 
         <p>
-          This versatility makes the Duke Blue Agent particularly valuable for research applications and real-world deployments where flexibility and adaptability are essential requirements.
+          This versatility makes the Duke Blue Agent particularly valuable for research applications and real world deployments where flexibility and adaptability are essential requirements.
         </p>
 
         <h2>Research Applications and Impact</h2>
 
         <h3>AI Research Advancement</h3>
         <p>
-          The Duke Blue Agent serves as a testbed for advanced AI research, enabling researchers to explore new approaches to autonomous intelligence, decision-making algorithms, and human-AI collaboration. The project contributes valuable insights to the broader AI research community.
+          The Duke Blue Agent serves as a testbed for advanced AI research, enabling researchers to explore new approaches to autonomous intelligence, decision making algorithms, and human AI collaboration. The project contributes valuable insights to the broader AI research community.
         </p>
 
         <p>
@@ -157,18 +157,18 @@ export function DukeBlueAgentPage({ onNavigate }: DukeBlueAgentPageProps) {
         </p>
 
         <p>
-          Students and researchers gain hands-on experience with cutting-edge AI technologies, autonomous systems development, and the practical challenges of creating intelligent agents that can operate in real-world environments.
+          Students and researchers gain hands on experience with cutting edge AI technologies, autonomous systems development, and the practical challenges of creating intelligent agents that can operate in real world environments.
         </p>
 
         <h2>Technical Innovation</h2>
 
         <h3>Adaptive Learning Systems</h3>
         <p>
-          The Duke Blue Agent incorporates sophisticated adaptive learning mechanisms that enable it to improve its performance over time. These systems allow the agent to learn from its experiences, adjust its strategies, and develop new approaches to problem-solving.
+          The Duke Blue Agent incorporates sophisticated adaptive learning mechanisms that enable it to improve its performance over time. These systems allow the agent to learn from its experiences, adjust its strategies, and develop new approaches to problem solving.
         </p>
 
         <p>
-          The adaptive learning capabilities ensure that the agent becomes more effective and efficient as it gains experience, making it particularly valuable for long-term deployments and complex problem-solving scenarios.
+          The adaptive learning capabilities ensure that the agent becomes more effective and efficient as it gains experience, making it particularly valuable for long term deployments and complex problem solving scenarios.
         </p>
 
         <h3>Safe AI Development</h3>
@@ -182,7 +182,7 @@ export function DukeBlueAgentPage({ onNavigate }: DukeBlueAgentPageProps) {
 
         <h2>Future Development and Applications</h2>
         <p>
-          The Duke Blue Agent project continues to evolve as new AI technologies and techniques become available. The system serves as a platform for ongoing research into autonomous intelligence, human-AI collaboration, and the development of more sophisticated AI agents.
+          The Duke Blue Agent project continues to evolve as new AI technologies and techniques become available. The system serves as a platform for ongoing research into autonomous intelligence, human AI collaboration, and the development of more sophisticated AI agents.
         </p>
 
         <p>

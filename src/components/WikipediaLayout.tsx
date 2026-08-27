@@ -26,7 +26,7 @@ export function WikipediaLayout({ children }: WikipediaLayoutProps) {
           <p>
             Text is available under the <a href="#">Creative Commons Attribution-ShareAlike License</a>;
             additional terms may apply. By using this site, you agree to the <a href="#">Terms of Use</a> and <a href="#">Privacy Policy</a>.
-            Wikipedia® is a registered trademark of the <a href="#">Wikimedia Foundation, Inc.</a>, a non-profit organization.
+            Wikipedia® is a registered trademark of the <a href="#">Wikimedia Foundation, Inc.</a>, a non profit organization.
           </p>
         </div>
       </footer>
