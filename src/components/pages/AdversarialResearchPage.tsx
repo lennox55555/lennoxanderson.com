@@ -72,11 +72,11 @@ export function AdversarialResearchPage({ onNavigate }: AdversarialResearchPageP
 
       <div className="wiki-text">
         <p>
-          <strong>Adversarial Perturbations Research</strong> is a cybersecurity research project focused on developing adversarial machine learning techniques specifically targeting vocal audio systems and generative voice models. The research aims to create imperceptible audio perturbations that can successfully attack state-of-the-art voice cloning and vocal pattern recognition systems.
+          <strong>Adversarial Perturbations Research</strong> is a cybersecurity research project focused on developing adversarial machine learning techniques specifically targeting vocal audio systems and generative voice models. The research aims to create imperceptible audio perturbations that can successfully attack state of the art voice cloning and vocal pattern recognition systems.
         </p>
 
         <p>
-          This research addresses critical security vulnerabilities in audio-based AI systems, particularly those used for voice authentication, speech synthesis, and voice cloning applications, by demonstrating how subtle adversarial modifications can compromise their reliability and security.
+          This research addresses critical security vulnerabilities in audio based AI systems, particularly those used for voice authentication, speech synthesis, and voice cloning applications, by demonstrating how subtle adversarial modifications can compromise their reliability and security.
         </p>
 
         <h2>Research Overview</h2>
@@ -92,7 +92,7 @@ export function AdversarialResearchPage({ onNavigate }: AdversarialResearchPageP
 
         <h3>Adversarial Machine Learning Framework</h3>
         <p>
-          The research employs advanced adversarial machine learning techniques specifically adapted for the audio domain. Unlike traditional image-based adversarial examples, audio perturbations must account for temporal dynamics, frequency characteristics, and human auditory perception constraints.
+          The research employs advanced adversarial machine learning techniques specifically adapted for the audio domain. Unlike traditional image based adversarial examples, audio perturbations must account for temporal dynamics, frequency characteristics, and human auditory perception constraints.
         </p>
 
         <p>
@@ -112,11 +112,11 @@ export function AdversarialResearchPage({ onNavigate }: AdversarialResearchPageP
 
         <h3>Generative Voice Models</h3>
         <p>
-          The research specifically targets state-of-the-art generative models used for voice synthesis and voice cloning applications. These systems, which have become increasingly sophisticated and widely deployed, represent critical infrastructure that could be vulnerable to adversarial attacks.
+          The research specifically targets state of the art generative models used for voice synthesis and voice cloning applications. These systems, which have become increasingly sophisticated and widely deployed, represent critical infrastructure that could be vulnerable to adversarial attacks.
         </p>
 
         <p>
-          By demonstrating successful attacks against these systems, the research highlights potential security risks in applications ranging from voice authentication systems to synthetic media detection and voice-based user interfaces.
+          By demonstrating successful attacks against these systems, the research highlights potential security risks in applications ranging from voice authentication systems to synthetic media detection and voice based user interfaces.
         </p>
 
         <h3>Voice Cloning Systems</h3>
@@ -139,13 +139,13 @@ export function AdversarialResearchPage({ onNavigate }: AdversarialResearchPageP
           The learning framework incorporates multiple loss function components that balance attack effectiveness, perceptual imperceptibility, and transferability across different target systems, creating a comprehensive optimization framework for adversarial audio generation.
         </p>
 
-        <h3>Multi-Domain Optimization</h3>
+        <h3>Multi Domain Optimization</h3>
         <p>
           The modular architecture supports optimization across multiple audio domains, including speech, music, and environmental sounds. This versatility demonstrates the broad applicability of the adversarial techniques and highlights potential vulnerabilities across diverse audio processing applications.
         </p>
 
         <p>
-          The multi-domain approach also enables research into transferability of adversarial examples, investigating how perturbations designed for one type of audio content or target system might affect other related systems.
+          The multi domain approach also enables research into transferability of adversarial examples, investigating how perturbations designed for one type of audio content or target system might affect other related systems.
         </p>
 
         <h2>Security Implications and Defensive Applications</h2>
@@ -170,7 +170,7 @@ export function AdversarialResearchPage({ onNavigate }: AdversarialResearchPageP
 
         <h2>Research Impact and Applications</h2>
         <p>
-          The Adversarial Perturbations Research project has significant implications for AI security, particularly in the rapidly growing field of audio AI applications. The research findings contribute to understanding the security landscape of voice-based systems and generative audio models.
+          The Adversarial Perturbations Research project has significant implications for AI security, particularly in the rapidly growing field of audio AI applications. The research findings contribute to understanding the security landscape of voice based systems and generative audio models.
         </p>
 
         <p>

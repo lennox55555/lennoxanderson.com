@@ -65,7 +65,7 @@ export function DukeUniversityPage({ onNavigate }: DukeUniversityPageProps) {
         </p>
 
         <p>
-          The AI program at Duke focuses on advanced machine learning techniques, deep learning architectures, and their applications across various industries including energy systems, healthcare, and autonomous systems. Students engage in hands-on projects and research that prepare them for leadership roles in technology-driven organizations.
+          The AI program at Duke focuses on advanced machine learning techniques, deep learning architectures, and their applications across various industries including energy systems, healthcare, and autonomous systems. Students engage in hands on projects and research that prepare them for leadership roles in technology driven organizations.
         </p>
 
         <h2>Notable students and alumni</h2>
@@ -80,12 +80,12 @@ export function DukeUniversityPage({ onNavigate }: DukeUniversityPageProps) {
         </p>
 
         <p>
-          This combination of academic study at Duke and professional experience represented the type of industry-academia collaboration that Duke's engineering programs are designed to foster. The work demonstrates the practical application of advanced AI techniques to real-world challenges.
+          This combination of academic study at Duke and professional experience represented the type of industry academia collaboration that Duke's engineering programs are designed to foster. The work demonstrates the practical application of advanced AI techniques to real world challenges.
         </p>
 
         <h3>Coursework and Academic Focus</h3>
         <p>
-          During the Master's program, the curriculum included specialized courses in artificial intelligence and machine learning. In <strong>Deep Learning Applications</strong>, the coursework explored advanced neural network architectures and their implementation in real-world scenarios. The work in <strong>Modeling Process & Algorithms</strong> focused on developing systematic approaches to machine learning model development and optimization.
+          During the Master's program, the curriculum included specialized courses in artificial intelligence and machine learning. In <strong>Deep Learning Applications</strong>, the coursework explored advanced neural network architectures and their implementation in real world scenarios. The work in <strong>Modeling Process & Algorithms</strong> focused on developing systematic approaches to machine learning model development and optimization.
         </p>
 
         <p>

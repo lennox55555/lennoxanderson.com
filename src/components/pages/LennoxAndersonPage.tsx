@@ -52,7 +52,7 @@ export function LennoxAndersonPage({ onNavigate }: LennoxAndersonPageProps) {
         </p>
 
         <p>
-          Known for research in time-series analysis and computer vision applications. Professional experience includes developing agentic automation systems for production software environments, as well as software engineering and data science work in supply chain operations & optimization.
+          Known for research in time series analysis and computer vision applications. Professional experience includes developing agentic automation systems for production software environments, as well as software engineering and data science work in supply chain operations & optimization.
         </p>
 
         <h2>Early life and education</h2>
@@ -86,7 +86,7 @@ export function LennoxAndersonPage({ onNavigate }: LennoxAndersonPageProps) {
               <td><WikiLink onClick={() => onNavigate('flexgen')}>FlexGen Power Systems</WikiLink></td>
               <td>Machine Learning Engineer</td>
               <td>Durham, NC</td>
-              <td>AI automation for battery management systems and predictive modeling with time-series data</td>
+              <td>AI automation for battery management systems and predictive modeling with time series data</td>
             </tr>
             <tr>
               <td>2023–2024</td>
@@ -126,6 +126,7 @@ export function LennoxAndersonPage({ onNavigate }: LennoxAndersonPageProps) {
               <th>Domain</th>
               <th>Description</th>
               <th>Key Technologies</th>
+              <th>Publication</th>
             </tr>
           </thead>
           <tbody>
@@ -134,18 +135,19 @@ export function LennoxAndersonPage({ onNavigate }: LennoxAndersonPageProps) {
               <td>Computer Vision</td>
               <td>Gathered 35+ hours of raw driving footage and built a driving simulation that obtained eye gaze data and ground truth of hazardous situations. Developed and trained ML and DL models to predict bounding boxes of hazardous driving instances.</td>
               <td>Computer Vision, Eye Tracking, Deep Learning</td>
+              <td><a href="https://arxiv.org/abs/2608.08947" target="_blank" rel="noopener noreferrer">arXiv:2608.08947</a></td>
             </tr>
             {/* Commented out until ready to show to the world
             <tr>
               <td><WikiLink onClick={() => onNavigate('energy-forecasting')}>Forecasting Energy Market Data</WikiLink></td>
               <td>Time Series Analysis</td>
-              <td>Hybrid ML/deep learning architecture combining Random Forest, XGBoost, and LSTM models in a multi-horizon framework (15min-7day predictions) to achieve up to 6% improved accuracy over current energy trading models for battery storage arbitrage optimization across 1,046 ERCOT settlement points.</td>
+              <td>Hybrid ML/deep learning architecture combining Random Forest, XGBoost, and LSTM models in a multi horizon framework (15min-7day predictions) to achieve up to 6% improved accuracy over current energy trading models for battery storage arbitrage optimization across 1,046 ERCOT settlement points.</td>
               <td>Random Forest, XGBoost, LSTM, Time Series Forecasting</td>
             </tr>
             <tr>
               <td><WikiLink onClick={() => onNavigate('adversarial-research')}>Adversarial Perturbations Research</WikiLink></td>
               <td>Audio Security</td>
-              <td>Research in adversarial machine learning, focusing on creating imperceptible perturbations in vocal audio. Developed modular architecture to generate adversarial attacks against state-of-the-art generative models that clone vocal patterns.</td>
+              <td>Research in adversarial machine learning, focusing on creating imperceptible perturbations in vocal audio. Developed modular architecture to generate adversarial attacks against state of the art generative models that clone vocal patterns.</td>
               <td>Adversarial ML, Audio Processing, Generative Models</td>
             </tr>
             <tr>
@@ -157,14 +159,14 @@ export function LennoxAndersonPage({ onNavigate }: LennoxAndersonPageProps) {
             <tr>
               <td><WikiLink onClick={() => onNavigate('duke-blue-agent')}>Duke Blue Agent</WikiLink></td>
               <td>AI Systems</td>
-              <td>Advanced artificial intelligence agent system developed at Duke University for autonomous decision-making and intelligent task execution across complex problem domains.</td>
+              <td>Advanced artificial intelligence agent system developed at Duke University for autonomous decision making and intelligent task execution across complex problem domains.</td>
               <td>AI Agents, Autonomous Systems, Machine Learning</td>
             </tr>
             <tr>
               <td><WikiLink onClick={() => onNavigate('energy-analytics')}>Energy Analytics</WikiLink></td>
               <td>Data Analytics</td>
-              <td>Comprehensive data analytics platform providing real-time insights and performance optimization for energy systems through advanced visualization and dashboard development.</td>
-              <td>Data Visualization, Real-time Analytics, Energy Management</td>
+              <td>Comprehensive data analytics platform providing real time insights and performance optimization for energy systems through advanced visualization and dashboard development.</td>
+              <td>Data Visualization, Real time Analytics, Energy Management</td>
             </tr>
             */}
           </tbody>

@@ -107,7 +107,7 @@ export function MozambiqueMigrationPage({ onNavigate }: MozambiqueMigrationPageP
         </p>
 
         <p>
-          The research team collaborated with local conservation organizations, national park authorities, and international wildlife monitoring programs to access high-quality wildlife tracking data spanning multiple years and covering diverse species and habitats.
+          The research team collaborated with local conservation organizations, national park authorities, and international wildlife monitoring programs to access high quality wildlife tracking data spanning multiple years and covering diverse species and habitats.
         </p>
 
         <h3>Geospatial Analysis Framework</h3>
@@ -123,14 +123,14 @@ export function MozambiqueMigrationPage({ onNavigate }: MozambiqueMigrationPageP
 
         <h3>Predictive Modeling Architecture</h3>
         <p>
-          The project developed sophisticated machine learning models capable of predicting animal migration patterns based on environmental conditions, seasonal variations, and historical movement data. The predictive modeling framework incorporated multiple algorithmic approaches to handle the complex, multi-dimensional nature of wildlife movement data.
+          The project developed sophisticated machine learning models capable of predicting animal migration patterns based on environmental conditions, seasonal variations, and historical movement data. The predictive modeling framework incorporated multiple algorithmic approaches to handle the complex, multi dimensional nature of wildlife movement data.
         </p>
 
         <p>
-          The models were designed to account for species-specific behaviors, environmental constraints, human-wildlife interactions, and seasonal patterns that influence migration timing and routes across Mozambique's diverse landscapes.
+          The models were designed to account for species specific behaviors, environmental constraints, human wildlife interactions, and seasonal patterns that influence migration timing and routes across Mozambique's diverse landscapes.
         </p>
 
-        <h3>Species-Specific Analysis</h3>
+        <h3>Species Specific Analysis</h3>
         <p>
           The research focused on large mammals and migratory species that play critical roles in Mozambique's ecosystems. This included elephants, buffalo, wildebeest, and other species whose movements significantly impact ecosystem dynamics and conservation planning requirements.
         </p>
@@ -147,16 +147,16 @@ export function MozambiqueMigrationPage({ onNavigate }: MozambiqueMigrationPageP
         </p>
 
         <p>
-          The research findings directly inform land-use planning decisions, protected area management strategies, and conservation investment priorities across Mozambique's national parks and wildlife management areas.
+          The research findings directly inform land use planning decisions, protected area management strategies, and conservation investment priorities across Mozambique's national parks and wildlife management areas.
         </p>
 
-        <h3>Human-Wildlife Conflict Mitigation</h3>
+        <h3>Human Wildlife Conflict Mitigation</h3>
         <p>
-          Understanding migration patterns is essential for predicting and preventing human-wildlife conflicts. The project's predictive capabilities enable proactive management strategies that can reduce conflicts between migrating wildlife and local communities.
+          Understanding migration patterns is essential for predicting and preventing human wildlife conflicts. The project's predictive capabilities enable proactive management strategies that can reduce conflicts between migrating wildlife and local communities.
         </p>
 
         <p>
-          The research provides valuable insights for developing early warning systems, seasonal management protocols, and community-based conservation programs that account for predicted wildlife movement patterns.
+          The research provides valuable insights for developing early warning systems, seasonal management protocols, and community based conservation programs that account for predicted wildlife movement patterns.
         </p>
 
         <h2>Environmental Impact Assessment</h2>
@@ -167,7 +167,7 @@ export function MozambiqueMigrationPage({ onNavigate }: MozambiqueMigrationPageP
         </p>
 
         <p>
-          This forward-looking approach enables conservation planners to develop adaptive management strategies that can respond to changing migration patterns caused by climate change, habitat alteration, and human development pressures.
+          This forward looking approach enables conservation planners to develop adaptive management strategies that can respond to changing migration patterns caused by climate change, habitat alteration, and human development pressures.
         </p>
 
         <h3>Ecosystem Monitoring</h3>
@@ -176,16 +176,16 @@ export function MozambiqueMigrationPage({ onNavigate }: MozambiqueMigrationPageP
         </p>
 
         <p>
-          The migration pattern data serves as a valuable baseline for long-term monitoring programs and helps identify early indicators of ecosystem stress or environmental degradation that could affect wildlife populations.
+          The migration pattern data serves as a valuable baseline for long term monitoring programs and helps identify early indicators of ecosystem stress or environmental degradation that could affect wildlife populations.
         </p>
 
         <h2>Research Impact and Applications</h2>
         <p>
-          The Mozambique Migration Prediction Patterns project has significant implications for wildlife conservation across East Africa, providing scientific foundations for evidence-based conservation planning and ecosystem management decisions.
+          The Mozambique Migration Prediction Patterns project has significant implications for wildlife conservation across East Africa, providing scientific foundations for evidence based conservation planning and ecosystem management decisions.
         </p>
 
         <p>
-          The research findings contribute to international conservation efforts, supporting transboundary conservation initiatives and regional wildlife management programs that require understanding of cross-border migration patterns and habitat connectivity.
+          The research findings contribute to international conservation efforts, supporting transboundary conservation initiatives and regional wildlife management programs that require understanding of cross border migration patterns and habitat connectivity.
         </p>
 
 

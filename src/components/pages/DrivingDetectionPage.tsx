@@ -63,6 +63,12 @@ export function DrivingDetectionPage({ onNavigate }: DrivingDetectionPageProps) 
               <WikiLink onClick={() => onNavigate('lennox')}>Lennox Anderson</WikiLink>
             </div>
           </div>
+          <div className="wiki-infobox-row">
+            <div className="wiki-infobox-label">Publication</div>
+            <div className="wiki-infobox-value">
+              <a href="https://arxiv.org/abs/2608.08947" target="_blank" rel="noopener noreferrer">arXiv:2608.08947</a>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -73,7 +79,7 @@ export function DrivingDetectionPage({ onNavigate }: DrivingDetectionPageProps) 
         </p>
 
         <p>
-          This comprehensive research initiative was led by <WikiLink onClick={() => onNavigate('lennox')}>Lennox Anderson</WikiLink>, which required the integration of multiple technologies including computer vision, eye-tracking systems, driving simulation platforms, and advanced machine learning models.
+          This comprehensive research initiative was led by <WikiLink onClick={() => onNavigate('lennox')}>Lennox Anderson</WikiLink>, which required the integration of multiple technologies including computer vision, eye tracking systems, driving simulation platforms, and advanced machine learning models.
         </p>
 
         {/* Main Demo Video */}
@@ -144,7 +150,7 @@ export function DrivingDetectionPage({ onNavigate }: DrivingDetectionPageProps) 
           </div>
           <div style={{ flex: '1', minWidth: '300px', paddingLeft: '20px' }}>
             <p style={{ fontSize: '14px', lineHeight: '1.6', margin: '0 0 0 20px', textAlign: 'justify' }}>
-              We used Tesla's built-in dash cam system to record all the driving footage. The vehicle is a 2021 Model 3 equipped with Hardware 3, which provided high-quality video capture capabilities. The integrated dash cam system automatically recorded driving sessions, capturing multiple camera angles and perspectives that were essential for comprehensive hazard detection analysis.
+              We used Tesla's built in dash cam system to record all the driving footage. The vehicle is a 2021 Model 3 equipped with Hardware 3, which provided high quality video capture capabilities. The integrated dash cam system automatically recorded driving sessions, capturing multiple camera angles and perspectives that were essential for comprehensive hazard detection analysis.
             </p>
           </div>
         </div>
@@ -153,7 +159,7 @@ export function DrivingDetectionPage({ onNavigate }: DrivingDetectionPageProps) 
         <div style={{ display: 'flex', alignItems: 'center', gap: '20px', margin: '20px 0', padding: '20px 0', flexWrap: 'wrap' }}>
           <div style={{ flex: '1', minWidth: '300px', paddingRight: '20px' }}>
             <p style={{ fontSize: '14px', lineHeight: '1.6', margin: '0 20px 0 0', textAlign: 'justify' }}>
-              Once the video footage was easily exported from the Model 3 using a USB drive, comprehensive preprocessing was performed to segment the driving footage into optimized 15-second clips before uploading to AWS. The custom driving simulation system recorded users' eye gaze patterns throughout these 15-second driving scenarios, enabling participants to identify and mark hazardous situations by pressing the space bar. This methodology created precise ground truth annotations aligned with human visual attention and risk perception.
+              Once the video footage was easily exported from the Model 3 using a USB drive, comprehensive preprocessing was performed to segment the driving footage into optimized 15 second clips before uploading to AWS. The custom driving simulation system recorded users' eye gaze patterns throughout these 15 second driving scenarios, enabling participants to identify and mark hazardous situations by pressing the space bar. This methodology created precise ground truth annotations aligned with human visual attention and risk perception.
             </p>
           </div>
           <div style={{ flex: '1', minWidth: '300px', textAlign: 'center', padding: '15px' }}>
@@ -173,7 +179,7 @@ export function DrivingDetectionPage({ onNavigate }: DrivingDetectionPageProps) 
               Your browser does not support the video tag.
             </video>
             <div style={{ fontSize: '12px', color: '#555', marginTop: '8px', fontStyle: 'italic' }}>
-              Driving simulation system used for eye-tracking data collection and ground truth annotation
+              Driving simulation system used for eye tracking data collection and ground truth annotation
             </div>
           </div>
         </div>
@@ -197,12 +203,12 @@ export function DrivingDetectionPage({ onNavigate }: DrivingDetectionPageProps) 
               Your browser does not support the video tag.
             </video>
             <div style={{ fontSize: '12px', color: '#555', marginTop: '8px', fontStyle: 'italic' }}>
-              Data overlay visualization showing eye-tracking patterns and hazard detection overlays
+              Data overlay visualization showing eye tracking patterns and hazard detection overlays
             </div>
           </div>
           <div style={{ flex: '1', minWidth: '300px', paddingLeft: '20px' }}>
             <p style={{ fontSize: '14px', lineHeight: '1.6', margin: '0 0 0 20px', textAlign: 'justify' }}>
-              Through this comprehensive data collection process, we successfully captured over 41,000 gaze samples accompanied by detailed participant biographical data. This extensive dataset provides unprecedented insights into human hazard perception during driving scenarios, creating a rich foundation for understanding the cognitive and visual patterns that inform human risk assessment in real-world driving situations.
+              Through this comprehensive data collection process, we successfully captured over 41,000 gaze samples accompanied by detailed participant biographical data. This extensive dataset provides unprecedented insights into human hazard perception during driving scenarios, creating a rich foundation for understanding the cognitive and visual patterns that inform human risk assessment in real world driving situations.
             </p>
           </div>
         </div>
@@ -237,7 +243,7 @@ export function DrivingDetectionPage({ onNavigate }: DrivingDetectionPageProps) 
               />
             </div>
             <div style={{ fontSize: '12px', color: '#555', marginTop: '8px', fontStyle: 'italic', textAlign: 'center' }}>
-              YOLOv8-based object detection and hazard identification system results
+              YOLOv8 based object detection and hazard identification system results
             </div>
           </div>
         </div>
@@ -256,12 +262,12 @@ export function DrivingDetectionPage({ onNavigate }: DrivingDetectionPageProps) 
               }}
             />
             <div style={{ fontSize: '12px', color: '#555', marginTop: '8px', fontStyle: 'italic' }}>
-              Real-time inference hardware system
+              Real time inference hardware system
             </div>
           </div>
           <div style={{ flex: '1', minWidth: '300px', paddingLeft: '20px' }}>
             <p style={{ fontSize: '14px', lineHeight: '1.6', margin: '0 0 0 20px', textAlign: 'justify' }}>
-              The real-time inference system utilizes a Raspberry Pi 5 16GB, a Raspberry Pi AI Hat 26 TOPS, and Arducam IMX519 Autofocus Camera 16MP AF. This is where the trained models perform inference to detect human-aligned hazardous situations in real time, providing immediate hazard identification capabilities for active driving assistance applications.
+              The real time inference system utilizes a Raspberry Pi 5 16GB, a Raspberry Pi AI Hat 26 TOPS, and Arducam IMX519 Autofocus Camera 16MP AF. This is where the trained models perform inference to detect human aligned hazardous situations in real time, providing immediate hazard identification capabilities for active driving assistance applications.
             </p>
           </div>
         </div>
@@ -270,7 +276,7 @@ export function DrivingDetectionPage({ onNavigate }: DrivingDetectionPageProps) 
         <div style={{ display: 'flex', alignItems: 'center', gap: '20px', margin: '20px 0', padding: '20px 0', flexWrap: 'wrap' }}>
           <div style={{ flex: '1', minWidth: '300px', paddingRight: '20px' }}>
             <p style={{ fontSize: '14px', lineHeight: '1.6', margin: '0 20px 0 0', textAlign: 'justify' }}>
-              The training pipeline uses YOLO-detected objects and eye gaze data to label hazardous objects, training a Random Forest on visual features (size, position, area) from bounding boxes. During deployment, the Raspberry Pi's camera feeds live video to YOLO for object detection, then Random Forest classifies each object as hazardous or safe (no eye tracking needed). The system learned which visual patterns correlate with human attention, enabling real-time hazard alerts.
+              The training pipeline uses YOLO detected objects and eye gaze data to label hazardous objects, training a Random Forest on visual features (size, position, area) from bounding boxes. During deployment, the Raspberry Pi's camera feeds live video to YOLO for object detection, then Random Forest classifies each object as hazardous or safe (no eye tracking needed). The system learned which visual patterns correlate with human attention, enabling real time hazard alerts.
             </p>
           </div>
           <div style={{ flex: '1', minWidth: '300px', textAlign: 'center', padding: '15px' }}>
@@ -292,11 +298,11 @@ export function DrivingDetectionPage({ onNavigate }: DrivingDetectionPageProps) 
 
         <h2>Future Work</h2>
         <p>
-          The next phase involves implementing a fully automated MLOps pipeline with continuous integration and deployment capabilities. Upon accumulation of every 100 driving simulation sessions via onyxaillc.com, an AWS EventBridge trigger will orchestrate cloud-based preprocessing workflows, followed by automated model retraining using distributed computing resources and containerized deployment to edge hardware via AWS IoT Greengrass. This architecture ensures seamless model versioning, rollback capabilities, and zero-downtime updates while maintaining data lineage and model provenance throughout the pipeline.
+          The project closed out with a paper published on arXiv (<a href="https://arxiv.org/abs/2608.08947" target="_blank" rel="noopener noreferrer">arXiv:2608.08947</a>), and the results reframed where the work should go next. Across every experiment, webcam based eye tracking (WebGazer.js) failed to produce a statistically significant improvement in hazard detection (p = 0.919, 0.578, and 0.667). A geometric analysis pinned down the root cause: WebGazer's 196 px error radius exceeds 93% of hazard object sizes, so attributing a gaze point to a specific object is physically impossible at that instrument precision.
         </p>
 
         <p>
-          Concurrently, research will focus on developing reinforcement learning frameworks with human-preference optimization techniques, incorporating safety constraints through reward modeling based on validated human-aligned hazard perception metrics. The system will employ A/B testing methodologies with statistical significance validation to ensure that no production deployment degrades performance below established safety thresholds. This approach leverages constitutional AI principles to maintain human-centric safety standards while enabling autonomous model improvement at scale.
+          The clearest next step is a more accurate data collection and processing pipeline. The existing infrastructure, including the driving simulation platform, the four stage ETL pipeline, the causal alignment module, and the multi seed evaluation framework, was built for extensibility, so the imprecise webcam gaze input can be swapped for dedicated eye tracking hardware such as a Tobii tracker at 0.5–1° (sub degree) accuracy without rebuilding the rest of the system. Alongside better instrumentation, planned directions include collecting a larger post calibration dataset, adding a synthetic positive control that injects ground truth gaze labels to confirm the pipeline can detect signal when it genuinely exists, and benchmarking against established driving attention datasets such as DR(eye)VE and BDD-A.
         </p>
 
         <div className="wiki-categories">
@@ -304,7 +310,7 @@ export function DrivingDetectionPage({ onNavigate }: DrivingDetectionPageProps) 
           <a href="#">Computer vision research</a> |
           <a href="#">Machine learning projects</a> |
           <a href="#">Autonomous vehicle safety</a> |
-          <a href="#">Human-AI alignment</a> |
+          <a href="#">Human AI alignment</a> |
           <a href="#">Driver assistance systems</a>
         </div>
       </div>
